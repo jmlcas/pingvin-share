@@ -1,6 +1,3 @@
-# pingvin-share
-Pinving Share - Compartir archivos - Docker compose
+# Pingvin Share
 
-Ver en "localhost:8200"
-
-
+Ver en "http://localhost:8200"
